@@ -1,0 +1,9 @@
+{
+  "jspm": {
+    "dependencies": {
+      "jquery": "^2.1.1",
+      "react": "^0.11.2",
+      "npm:http-server": "^0.7.1"
+    }
+  }
+}
